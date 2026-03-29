@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Junaid Alom rihan",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,7 +11,7 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "Rihan",
+  "BOTNAME": "Rihan bot",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
